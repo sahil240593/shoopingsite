@@ -1,0 +1,10 @@
+﻿{
+
+  "username": "rahulshettyacademy",
+  "password": "learning",
+  "username_wrong": "rahulshettyacademy123",
+  "password_wrong": "learning123",
+  "username_test": "rahulshettyacademy456",
+  "password_test": "learning456",
+  "product": [ "iphone X", "Nokia Edge" ] 
+}
